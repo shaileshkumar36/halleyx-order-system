@@ -1,6 +1,6 @@
 # Halleyx Order System API
 
-Spring Boot REST API for managing customer orders.
+Spring Boot REST API for managing customer orders
 
 ## Tech Stack
 - Java
